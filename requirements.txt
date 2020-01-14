@@ -1,0 +1,12 @@
+certifi==2019.9.11
+cffi==1.13.2
+chardet==3.0.4
+cryptography==2.8
+idna==2.8
+pycparser==2.19
+pyOpenSSL==19.0.0
+requests==2.22.0
+selenium==3.141.0
+simple-salesforce==0.74.3
+six==1.13.0
+urllib3==1.25.7
